@@ -1,0 +1,641 @@
+{
+  "name": "iniciar_sesion_error",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "LyhgUtgBCRukJSZoOTAdmf",
+    "node": "135:21",
+    "version": "3167624543",
+    "component-id": "5e37c21d683dab6225f6c321f8980b3198f46609"
+  },
+  "default": "Iniciar sesion-error",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "text",
+        "id": "Usuario"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 12"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 10"
+      },
+      {
+        "type": "group",
+        "id": "material-symbols:sleep-score-outline-rounded"
+      },
+      {
+        "type": "text",
+        "id": "Contraseña"
+      },
+      {
+        "type": "text",
+        "id": "Contraseña1"
+      },
+      {
+        "type": "text",
+        "id": "Registrarse con e-mail"
+      },
+      {
+        "type": "text",
+        "id": "No tienes cuenta?"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 25"
+      },
+      {
+        "type": "text",
+        "id": "Usuario o contraseña incorrectos, por favor intentalo nuevamente"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 26"
+      },
+      {
+        "type": "text",
+        "id": "REINTENTAR"
+      },
+      {
+        "type": "group",
+        "id": "ic:sharp-error"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      }
+    ],
+    "modes": {
+      "Iniciar sesion-error": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 7",
+              "Usuario",
+              "Rectangle 8",
+              "Rectangle 9",
+              "Rectangle 12",
+              "Rectangle 10",
+              "material-symbols:sleep-score-outline-rounded",
+              "Contraseña",
+              "Contraseña1",
+              "Registrarse con e-mail",
+              "No tienes cuenta?",
+              "Rectangle 25",
+              "Usuario o contraseña incorrectos, por favor intentalo nuevamente",
+              "Rectangle 26",
+              "REINTENTAR",
+              "ic:sharp-error"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "236.53846153846152",
+              "saturation": "0.28571428571428575",
+              "value": "0.7137254901960784"
+            }
+          },
+          {
+            "id": "Rectangle 7",
+            "margin": {
+              "left": "35.0",
+              "top": "420.0",
+              "right": "36.0",
+              "bottom": "480.0"
+            },
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "Usuario",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "182.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "425.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "237.69230769230768",
+              "saturation": "0.28415300546448097",
+              "value": "0.7176470588235294"
+            },
+            "text-content": "Usuario ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "18.0",
+            "line-height": "1.2102272245619032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 8",
+            "margin": {
+              "left": "35.0",
+              "top": "489.0",
+              "right": "36.0",
+              "bottom": "411.0"
+            },
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_8.svg"
+          },
+          {
+            "id": "Rectangle 9",
+            "margin": {
+              "left": "35.0",
+              "top": "489.0",
+              "right": "36.0",
+              "bottom": "411.0"
+            },
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "Rectangle 12",
+            "margin": {
+              "left": "35.0",
+              "top": "750.0",
+              "right": "36.0",
+              "bottom": "150.0"
+            },
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_12.svg"
+          },
+          {
+            "id": "Rectangle 10",
+            "margin": {
+              "left": "35.0",
+              "top": "568.0",
+              "right": "36.0",
+              "bottom": "332.0"
+            },
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_10.svg"
+          },
+          {
+            "id": "material-symbols:sleep-score-outline-rounded",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "100.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "85.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "230.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "230.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Contraseña",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "165.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "494.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "237.69230769230768",
+              "saturation": "0.28415300546448097",
+              "value": "0.7176470588235294"
+            },
+            "text-content": "Contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "18.0",
+            "line-height": "1.2102272245619032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Contraseña1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "165.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "494.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "237.69230769230768",
+              "saturation": "0.28415300546448097",
+              "value": "0.7176470588235294"
+            },
+            "text-content": "Contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "18.0",
+            "line-height": "1.2102272245619032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Registrarse con e-mail",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "119.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "755.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "237.69230769230768",
+              "saturation": "0.28415300546448097",
+              "value": "0.7176470588235294"
+            },
+            "text-content": "Registrarse con e-mail",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "18.0",
+            "line-height": "1.2102272245619032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "No tienes cuenta?",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "133.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "705.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¿No tienes cuenta?",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "18.0",
+            "line-height": "1.2102272245619032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 25",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "280.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "390.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "390.0"
+              }
+            },
+            "vector-content": "rectangle_25.svg"
+          },
+          {
+            "id": "Usuario o contraseña incorrectos, por favor intentalo nuevamente",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "50.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "350.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "330.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "236.53846153846152",
+              "saturation": "0.28571428571428575",
+              "value": "0.7137254901960784"
+            },
+            "text-content": "Usuario o contraseña incorrectos, por favor intentalo nuevamente",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "40.0",
+            "typeface": "Jomhuria"
+          },
+          {
+            "id": "Rectangle 26",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "100.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "570.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "230.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "vector-content": "rectangle_26.svg"
+          },
+          {
+            "id": "REINTENTAR",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "130.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "580.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "REINTENTAR",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "22.0",
+            "line-height": "1.2102272727272727",
+            "typeface": "Inter"
+          },
+          {
+            "id": "ic:sharp-error",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "165.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "300.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "18.9271240234375",
+              "top": "19.57232666015625",
+              "right": "19.970947265625",
+              "bottom": "19.1666259765625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "8.3333740234375",
+              "top": "8.33331298828125",
+              "right": "8.33331298828125",
+              "bottom": "8.3333740234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Iniciar sesion-error",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
